@@ -11,9 +11,5 @@ Vue.use(ElementUI)
 
 new Vue({
   router,
-<<<<<<< HEAD
     render: h => h(App)
-=======
-  render: h => h(App)
->>>>>>> 04b3c50e283eedf81e2a4d7a187b20be8e91dff0
 }).$mount('#app')
